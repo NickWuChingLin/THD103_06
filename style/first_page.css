@@ -1,4 +1,3 @@
-@charset "UTF-8";
 * {
   padding: 0;
   margin: 0;
@@ -15,7 +14,7 @@ main {
   margin-top: 30px;
 }
 main div.inner-banner {
-  background-image: url("../img/icon/首頁輪播1.jpg");
+  background-image: url("../img/icon/first.jpg");
   background-position: center center;
   margin: 0 auto;
   background-repeat: no-repeat;
